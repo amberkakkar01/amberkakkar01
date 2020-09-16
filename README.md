@@ -7,7 +7,7 @@
     <a href="https://instagram.com/amberkakkar01"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/instagram.png"></a>&nbsp;&nbsp;
     <a href="https://t.me/amberkakkar01"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/telegram.jpg"></a>&nbsp;&nbsp;
     <a href="https://amberkakkar01.github.io"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/blog.png"></a>
-    <a href="https://medium.com/@amberkakkar01"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/medium.png"></a>&nbsp;&nbsp;
+    <a href="https://medium.com/@amberkakkar01"><img height="30" src="https://github.com/amberkakkar01/amberkakkar01/blob/master/assets/medium.png"></a>&nbsp;&nbsp;
 </p>
 
 ![](https://komarev.com/ghpvc/?username=amberkakkar01)
