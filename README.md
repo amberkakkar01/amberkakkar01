@@ -3,7 +3,7 @@
 ## I'm a Developer!
 
 [![instagram badge](https://img.shields.io/badge/instagram-amberkakkar01-0077b5?style=social&logo=instagram)](https://instagram.com/amberkakkar01)
-[![linkedin badge](https://img.shields.io/badge/linkedin-amber-kakkar-242138193/-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/amber-kakkar-242138193)
+[![linkedin badge](https://img.shields.io/badge/linkedin-amber-kakkar-242138193-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/amber-kakkar-242138193)
 [![medium badge](https://img.shields.io/badge/medium-amberkakkar01-0077b5?style=medium)](https://medium.com/@amberkakkar01)
 
 
