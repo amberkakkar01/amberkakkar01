@@ -2,9 +2,12 @@
 
 ## I'm a Developer!
 
-[![instagram badge](https://img.shields.io/badge/instagram-amberkakkar01-0077b5?style=social&logo=instagram)](https://instagram.com/amberkakkar01)
-[![linkedin badge](https://img.shields.io/badge/linkedin-amber-kakkar-242138193-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/amber-kakkar-242138193)
-[![medium badge](https://img.shields.io/badge/medium-amberkakkar01-0077b5?style=medium)](https://medium.com/@amberkakkar01)
+<p align='left'>
+    <a href="mailto:amberkakkar01@gmail.com"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/gmail.png"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/amberkakkar01"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/instagram.png"></a>&nbsp;&nbsp;
+    <a href="https://t.me/amberkakkar01"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/telegram.jpg"></a>&nbsp;&nbsp;
+    <a href="https://amberkakkar01.github.io"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/blog.png"></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=amberkakkar01)
 
@@ -17,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 
 ![Amber's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=amberkakkar01&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![Top Langauge Used]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaiyancvk&layout=compact&theme=radical" />
