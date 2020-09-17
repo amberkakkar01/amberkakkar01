@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Amber 👋
 
 ## I'm a Developer!
 
