@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 **I’m currently working on Machine Learning Models and Flutter Applications.**
 - 🌱 **I’m currently learning about Deep Learning, Computer Vision.**
-- 💬 **Ask me about Open Source, Machine Learning, Web Development, SEO, Flutter Development and communities.**
+- 💬 **Ask me about Machine Learning, Web Development, SEO, Flutter Development and communities.**
 - ✈️ **Hire me for remote work & internships.**
 - 📫 **How to reach me: Connect with me through social media.**
 - 😄 **Pronouns: he/him/his**
