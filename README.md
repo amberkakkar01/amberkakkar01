@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ✈️ **Hire me for remote work & internships.**
 - 📫 **How to reach me: Connect with me through social media.**
 - 😄 **Pronouns: he/him/his**
-- ⚡ **Fun fact: Busy making mistakes** 😂
+- ⚡ **Fun fact: I can program in PowerPoint** 
 
 ![Amber's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=amberkakkar01&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
