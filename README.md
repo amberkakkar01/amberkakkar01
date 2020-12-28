@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 **Pronouns: he/him/his**
 - ⚡ **Fun fact: I can program in PowerPoint** 
 
+## Show some <❤️> staring some of my repository :)
+
 ![Amber's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=amberkakkar01&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaiyancvk&layout=compact&theme=radical" />
