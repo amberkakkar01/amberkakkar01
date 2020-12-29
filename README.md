@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ✈️ **Hire me for remote work & internships.**
 - 📫 **How to reach me: Connect with me through social media.**
 - 😄 **Pronouns: he/him/his**
-- ⚡ **Fun fact: I can program in PowerPoint** 
+- ⚡ **Fun fact: I can program in PowerPoint ;)** 
 
 ## Show some <❤️> staring some of my repository :)
 
