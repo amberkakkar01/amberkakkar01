@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Show some <❤️> staring some of my repository :)
 
 
-<img src="https://media.giphy.com/media/x45I8CY1Vs45G/giphy.gif" alt="Road">
+<img src="https://media.giphy.com/media/x45I8CY1Vs45G/giphy.gif" alt="Road" width="600" height="260">
 
 ![Amber's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=amberkakkar01&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
