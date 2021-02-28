@@ -31,3 +31,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaiyancvk&layout=compact&theme=radical" />
 
+### 💼 Tools and systems:
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-17-570099.png" alt="Linux"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/windows-3050920-2538288.png" alt="Windows"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/git-13-569377.png" alt="Git"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/github-34-225988.png" alt="github"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/terminal-32-1136218.png" alt="terminal"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-1868941-1583105.png" alt="vscode"/></code>
+<code><img height="32" src="https://iconscout.com/icon/html5-3" alt="html"/></code>
+<code><img height="32" src="https://iconscout.com/icon/css-114" alt="css"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/heroku-5-569467.png" alt="Heroku"/></code>
+
