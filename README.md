@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/x45I8CY1Vs45G/giphy.gif" alt="Road" width="600" height="260">
 
-![Amber's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=amberkakkar01&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaiyancvk&layout=compact&theme=radical" />
+<a href="https://todi-2000.github.io">
+  <img src="https://github-readme-stats.vercel.app/api?username=amberkakkar01&count_private=true" align="center"/>
+</a>
+<a href="https://todi-2000.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberkakkar01&layout=compact" align="center"/>
+</a>
 
