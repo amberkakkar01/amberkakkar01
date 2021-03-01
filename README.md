@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <a href="https://amberkakkar01.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=amberkakkar01&count_private=true" align="center"/>
-</a>
+</a><br>
 <a href="https://amberkakkar01.github.io">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amberkakkar01&layout=compact" align="center"/>
 </a>
