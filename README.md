@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 <br>
 <h2 align="left">Tech Stack</h2>
 <p align="left">
-<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" alt="django" width="50" height="40"/> 
-<img src="https://cms-assets.tutsplus.com/uploads/users/45/posts/19786/preview_image/django-rest-framework-wide-retina-preview.gif" alt="djangorestframework" width="60" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1614669619~hmac=f73237e2e22646617baf3f339f96e493" width="50" height="40"/> 
+<img src="https://t4.ftcdn.net/jpg/02/98/27/91/240_F_298279136_WJ7q0Fm8RdHRg6syM7VjlF7mfsxBEMha.jpg" alt="djangorestframework" width="60" height="40"/> 
 <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1614669619~hmac=f73237e2e22646617baf3f339f96e493" alt="python" width="40" height="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" alt="html5" width="40" height="40"/> 
