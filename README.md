@@ -27,6 +27,24 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/x45I8CY1Vs45G/giphy.gif" alt="Road" width="600" height="260">
 
+<br>
+<h2 align="left">Tech Stack</h2>
+<p align="left">
+<img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg" alt="django" width="50" height="40"/> 
+<img src="https://cms-assets.tutsplus.com/uploads/users/45/posts/19786/preview_image/django-rest-framework-wide-retina-preview.gif" alt="djangorestframework" width="60" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/bulma.svg" alt="bulma" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/javascript.svg" alt="javascript" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/postgresql.svg" alt="postgresql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
+</p>
+
 <a href="https://amberkakkar01.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=amberkakkar01&count_private=true" align="center"/>
 </a>
