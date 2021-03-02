@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://www.flaticon.com/svg/vstatic/svg/226/226777.svg?token=exp=1614669619~hmac=f73237e2e22646617baf3f339f96e493" width="50" height="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/>
+<img src="https://iconape.com/wp-content/png_logo_vector/scikit-learn-logo.png" alt="scikit-learn" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="70" height="40"/> 
-<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1614670660~hmac=90e4948ed1fbc94be1f8832db0cdd012" alt="git" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1614670660~hmac=90e4948ed1fbc94be1f8832db0cdd012" alt="git-hub" width="40" height="40"/> 
 </p>
 
 <a href="https://amberkakkar01.github.io">
