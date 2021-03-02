@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git.svg" alt="git" width="40" height="50"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/github.svg" alt="git" width="40" height="50"/> 
+<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="40" height="40"/> 
+<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1614670660~hmac=90e4948ed1fbc94be1f8832db0cdd012" alt="git" width="40" height="40"/> 
 </p>
 
 <a href="https://amberkakkar01.github.io">
