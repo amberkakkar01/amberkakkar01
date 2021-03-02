@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/github.svg" alt="git" width="40" height="40"/> 
 </p>
 
 <a href="https://amberkakkar01.github.io">
