@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/scikit-learn-logo.png" alt="scikit-learn" width="60" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/java.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/bootstrap.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
