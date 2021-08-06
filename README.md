@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/>
 <img src="https://i.pinimg.com/originals/c7/b8/11/c7b8113247fecd83bd9b5ed5bd3f34d5.png" alt="My-SQL" width="50" height="40"/> 
+ <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="Latex" width="50" height="40"/> 
 <img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="git" width="70" height="40"/> 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="git-hub" width="40" height="40"/> 
 </p>
