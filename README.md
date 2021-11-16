@@ -2,6 +2,7 @@
 
 ## I'm a Developer!
 
+### Fell free to ping me :)
 <p align='left'>
     <a href="mailto:amberkakkar01@gmail.com"><img height="30" src="https://github.com/amberkakkar01/amberkakkar01/blob/master/assets/gmail.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/amber-kakkar-242138193/"><img height="30" src="https://github.com/amberkakkar01/amberkakkar01/blob/master/assets/lin.png"></a>&nbsp;&nbsp;
