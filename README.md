@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 <br>
 <h2 align="left">Tech Stack</h2>
 <p align="left">
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/java.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/>
+    
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/java.svg" alt="css3" width="40" height="40"/>
+<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="css3" width="45" height="45"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/scikit-learn-logo.png" alt="scikit-learn" width="60" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" alt="html5" width="40" height="40"/> 
