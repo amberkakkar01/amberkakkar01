@@ -16,10 +16,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 **I’m currently working on Machine Learning Models and Flutter Applications.**
-- 🌱 **I’m currently learning about Deep Learning, Computer Vision.**
-- 💬 **Ask me about Machine Learning, Web Development, SEO, Flutter Development and communities.**
-- ✈️ **Hire me for remote work & internships.**
+- 🔭 **I'm currently working on highly scalable microservices using Golang and Java.**
+- 🌱 **I'm passionate about Distributed Systems and always eager to learn more**
+- 💬 **Ask me about End-to-End API development, Machine Learning, Web Development, SEO, Flutter Development, Building thriving communities**
+- ✈️ **Open for remote work & job opportunities.**
 - 📫 **How to reach me: Connect with me through social media.**
 - 😄 **Pronouns: he/him/his**
 - ⚡ **Fun fact: I can program in PowerPoint ;)** 
