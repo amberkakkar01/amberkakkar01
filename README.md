@@ -26,7 +26,7 @@ Here are some highlights:
 - 📫 Reach me via email or LinkedIn (links above)
 - ⚡ Fun fact: I can program in PowerPoint 😉
 
-## Resume — Key Skills
+## Key Skills
 
 Programming Languages:
 
@@ -51,6 +51,14 @@ Frameworks & Tools:
 Other:
 
 - LaTeX, algorithm design, performance tuning, SEO basics
+
+AI & Agentic:
+
+- Large Models (LMs), prompt engineering, fine-tuning
+- Retrieval-Augmented Generation (RAG), vector search, semantic search
+- Vector DBs & tools (Pinecone, Milvus, FAISS) and embeddings
+- Ident classification / NLP 
+- Multi-agent systems, agent orchestration, autonomous workflows
 
 ## Tech Stack
 <p align="left">
